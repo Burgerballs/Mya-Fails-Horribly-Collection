@@ -3,7 +3,8 @@
 
 The 4th part will be given later because google drive downloading is awful.
 
-#Small Glossary
+# Small Glossary
+
 Mya's Aliases
 * Thanka
 * Dario attack
